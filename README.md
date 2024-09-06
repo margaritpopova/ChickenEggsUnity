@@ -13,7 +13,6 @@ The project was created to explore the principles and capabilities of the Unity 
 ### Screenshots
 <p align="center">
   <img src="Images/Screenshot 1.png">
-  <img src="Images/Screenshot 2.png">
 
 </p>
 
